@@ -758,5 +758,5 @@ endif
 
 " Make better macvim
 if has('gui_running')
-  set guifont=Monaco:h12
+  set guifont=ubuntu\ mono\ 12
 endif
